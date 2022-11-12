@@ -1,5 +1,5 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta veya Ödev Sayısı (NULL değiştirr)```
 
 # Homework 
 ```Ödev```
