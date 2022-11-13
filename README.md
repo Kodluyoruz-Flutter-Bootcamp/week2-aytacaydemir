@@ -15,6 +15,10 @@
 
 - In this project, it was tried to be done by using the source [Sıla Kaçmaz - Library System](https://github.com/kacmazsila/library_system).
 
+"![Simple view of the project:](https://github.com/Kodluyoruz-Flutter-Bootcamp/week2-aytacaydemir/blob/main/petclinic.png)" 
+
+
+
 ## Author
 
 ```Aytaç Aydemir```
